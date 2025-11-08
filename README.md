@@ -7,7 +7,7 @@ This section includes a left content card (logo, title, description, button) plu
 
 Add your screenshot here:
 
-![Beauty Products Section Preview](./preview.jpg)
+![Beauty Products Section Preview]("https://ibb.co.com/FkHF1T8M")
 
 🚀 Features
 
